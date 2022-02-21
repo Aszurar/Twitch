@@ -21,43 +21,42 @@ ___
 
 ## :information_source: Sobre
 
-O **SavePass** é o desafio principal do Capítulo 2 do bootcamp **Ignite da trilha com React-Native**. Nele, praticamos a lógica de programação com TypeScript para criação das funcionalidades desse aplicativo assim como toda estrutura para as requisições das funcionalidades desse aplicativo que utiliza o Async-Storage, ou seja o armazenamento local no dispositivo.
+O **Twitch** é o desafio extra do Capítulo 2 do bootcamp **Ignite da trilha com React-Native**. Nele, praticamos a lógica de programação com TypeScript para criação das funcionalidades desse aplicativo assim como toda estrutura para as requisições de autenticação e listagem. Assim, praticamos as configurações necessárias para a realização de uma autenticação de um projeto React-Native com Expo em mais uma API de aplicativo social.
 
 Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis erros que podem ocorrer durante a execução de uma requisição, uso de métodos como include dentre outros.
 
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/OFTcGp4.jpg" width="250">____<img src="https://i.imgur.com/CgeTHvY.gif" width=220>____<img src="https://i.imgur.com/DzpFoQH.jpg" width="250">
+  <img src="" width="250">____<img src="" width=220>____<img src="" width="250">
 </div>
 
 ___
 
 ## :interrobang: Motivo
 
-Esse desafio tem por objetivo por em praticar os conceitos básicos de React Native no desenvolvimento mobile no 2º capítulo do curso **Ignite** de **React Native** como o uso do Async-Storage para as requisições e funcionalidades citadas abaixo e uso do React Hook Form em conjunto com Yup para os Inputs e seus alertas. 
+Esse desafio tem por objetivo por em praticar os conceitos básicos de React Native no desenvolvimento mobile no 2º capítulo do curso **Ignite** de **React Native** como o uso das requisições e funcionalidades citadas abaixo:
 
 Assim, nesse projeto criamos:
 
-1. Listagem geral das contas.
-2. Cadastro de novas contas e senhas.
-3. Filtragem da lista geral de contas salvas.
-4. Uso do React Hook Form em conjunto com Yup.
+1. Listagem geral dos streamers que estão ao vivo e você acompanha.
+2. Autenticação social com a Twitch.
+3. Uso de requisições com axios e estururas com Try-Catch.
 
 * **Cadastro de senhas/contas**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/iLyGnZ1.gif" width="220">__________________
-  <img src="https://i.imgur.com/zqH5c4T.jpg" width=250>
+  <img src="" width="220">__________________
+  <img src="" width=250>
 </div>
 
 
 * **Pesquisa de contas/senhas**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/ClYsR45.jpg" width="250">______
-  <img src="https://i.imgur.com/eI7Wu1D.gif" width=220>_______
-  <img src="https://i.imgur.com/1VqjWZM.jpg" width=250>
+  <img src="" width="250">______
+  <img src="" width=220>_______
+  <img src="" width=250>
 </div>
 
 ___
@@ -65,7 +64,6 @@ ___
 ## :seedling: Requisitos Mínimos
 
 - Android Studio
-- Async-Storage
 - Celular(Opcional)
 - Expo(desktop) 
   - Expo Go(Mobile) opcional.
@@ -81,7 +79,7 @@ ___
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Android Studio](https://developer.android.com/studio)
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/usage/)
+- [Autenticação Expo](https://docs.expo.dev/guides/authentication/)
 - [Expo](https://expo.dev/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/en/)
@@ -97,7 +95,7 @@ ___
 
   - Clonar o projeto:
     ```bash
-     git clone https://github.com/Aszurar/SavePass.git
+     git clone https://github.com/Aszurar/Twitch.git
     ```
   - É necessário a instalação do yarn de acordo com seu sistema operacional, para isso veja como no site do [Yarn](https://github.com/Aszurar/SavePass.git)
   - Instalação das dependências:
