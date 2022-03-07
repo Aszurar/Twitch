@@ -16,7 +16,7 @@ ___
 <div align="center" ><img src="https://i.imgur.com/dLLHRnf.gif" width="220">
 </div>
 
-- [**Link do vídeo completo sobre o projeto**]()
+- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=Lfr0KEGY-_g)
 ___
 
 ## :information_source: Sobre
