@@ -13,7 +13,7 @@
 
 ___
 
-<div align="center" ><img src="" width="220">
+<div align="center" ><img src="https://i.imgur.com/kAePLdt.gif" width="220">
 </div>
 
 - [**Link do vídeo completo sobre o projeto**]()
@@ -28,7 +28,7 @@ Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis er
 * **Autenticação**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/1tFvjMA.jpg" width="250">____<img src="" width=220>____<img src="https://i.imgur.com/1J2k50A.jpg" width="250">
+  <img src="https://i.imgur.com/1tFvjMA.jpg" width="250">____<img src="https://i.imgur.com/qvahX8L.gif" width=220>____<img src="https://i.imgur.com/1J2k50A.jpg" width="250">
 </div>
 
 ___
@@ -46,10 +46,16 @@ Assim, nesse projeto criamos:
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/cw5qWFG.jpg" width="220">__________________
-  <img src="" width=250>
+  <img src="https://i.imgur.com/kAePLdt.gif" width="220">__________________
+  <img src="https://i.imgur.com/cw5qWFG.jpg" width=250>
 </div>
 
+
+* **Logout**:
+  
+<div align="center" >
+  <img src="https://i.imgur.com/J62P5UI.gif" width=220>
+</div>
 
 ## :seedling: Requisitos Mínimos
 
