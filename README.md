@@ -25,10 +25,10 @@ O **Twitch** é o desafio extra do Capítulo 2 do bootcamp **Ignite da trilha co
 
 Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis erros que podem ocorrer durante a execução de uma requisição, uso de métodos como include dentre outros.
 
-* **Página Inicial**:
+* **Autenticação**:
   
 <div align="center" >
-  <img src="" width="250">____<img src="" width=220>____<img src="" width="250">
+  <img src="https://i.imgur.com/1tFvjMA.jpg" width="250">____<img src="" width=220>____<img src="https://i.imgur.com/1J2k50A.jpg" width="250">
 </div>
 
 ___
@@ -43,23 +43,13 @@ Assim, nesse projeto criamos:
 2. Autenticação social com a Twitch.
 3. Uso de requisições com axios e estururas com Try-Catch.
 
-* **Cadastro de senhas/contas**:
+* **Página Inicial**:
   
 <div align="center" >
-  <img src="" width="220">__________________
+  <img src="https://i.imgur.com/cw5qWFG.jpg" width="220">__________________
   <img src="" width=250>
 </div>
 
-
-* **Pesquisa de contas/senhas**:
-  
-<div align="center" >
-  <img src="" width="250">______
-  <img src="" width=220>_______
-  <img src="" width=250>
-</div>
-
-___
 
 ## :seedling: Requisitos Mínimos
 
