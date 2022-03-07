@@ -46,7 +46,7 @@ Assim, nesse projeto criamos:
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/kAePLdt.gif" width="220">__________________
+  <img src="https://i.imgur.com/dLLHRnf.gif" width="220">__________________
   <img src="https://i.imgur.com/cw5qWFG.jpg" width=250>
 </div>
 
