@@ -13,7 +13,7 @@
 
 ___
 
-<div align="center" ><img src="https://i.imgur.com/kAePLdt.gif" width="220">
+<div align="center" ><img src="https://i.imgur.com/dLLHRnf.gif" width="220">
 </div>
 
 - [**Link do vídeo completo sobre o projeto**]()
